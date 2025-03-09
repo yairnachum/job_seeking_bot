@@ -2,7 +2,7 @@ import logging
 from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
-BOT_API_TOKEN = "7739788483:AAGDF4fjNsEJvkfzaPqju0sDQI7oGBN3xyQ"
+BOT_API_TOKEN = "xxxxxxxxx"
 SOURCE_CHAT_ID = -4796607635
 DESTINATION_CHAT_ID = -4666534022
 
